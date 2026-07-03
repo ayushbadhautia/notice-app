@@ -4,14 +4,6 @@
 // (full body text shown in detail view).
 // Categories in use: Cultural, Academic, Sports, Career, Health.
 
-export const CATEGORY_META = {
-  Academic: { color: "#C1502E" },
-  Administrative: { color: "#B8862E" },
-  Career: { color: "#2F7A78" },
-  Cultural: { color: "#7D5A75" },
-  Sports: { color: "#3D6B8C" },
-  Health: { color: "#5B7F4F" },
-};
 
 export const EVENTS = [
   {
