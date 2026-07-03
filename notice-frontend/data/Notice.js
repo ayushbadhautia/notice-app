@@ -4,12 +4,12 @@
 // Categories in use: Academic, Administrative, Career, Health.
 
 export const CATEGORY_META = {
-  Academic: { color: "#C1502E" },
-  Administrative: { color: "#B8862E" },
-  Career: { color: "#2F7A78" },
-  Cultural: { color: "#7D5A75" },
-  Sports: { color: "#3D6B8C" },
-  Health: { color: "#5B7F4F" },
+  Academic: "sienna",              // was #C1502E
+  Administrative: "darkgoldenrod", // was #B8862E
+  Career: "teal",                  // was #2F7A78
+  Cultural: "darkslateblue",       // was #7D5A75
+  Sports: "steelblue",             // was #3D6B8C
+  Health: "darkolivegreen",        // was #5B7F4F
 };
 
 export const NOTICES = [
